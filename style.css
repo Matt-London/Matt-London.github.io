@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  padding: 0px;
+
+}
+
+body {
+  /* display: flex; */
+  
+  background: linear-gradient(black, gray);
+}
+
+#menu-background {
+  top: 0%;
+  float: right;
+  width: 35%;
+  height: 8%;
+  border-radius: 5px;
+  background-color: black;
+}
+
+.nav {
+  background-color: rgb(10, 53, 82);
+  border: none;
+  color: white;
+  padding: 15px 35px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
