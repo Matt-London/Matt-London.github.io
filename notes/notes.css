@@ -1,0 +1,14 @@
+p {
+  margin-left: 10px;
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+
+a:visited {
+  color: #0000EE;
+}
+
+li {
+  margin-left: 20px;
+  font-size: 30px;
+}
